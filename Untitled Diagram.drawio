@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T06:48:33.555Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="0ifEx4b6UqqeOnbE_CyQ" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T06:49:27.056Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="wDj-xCBK8AN4sWpbskMK" version="17.4.1" type="github">
   <diagram id="6Wr7HWto9CDt8bVIGJbJ" name="Page-1">
     <mxGraphModel dx="897" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,6 +77,9 @@
         </mxCell>
         <mxCell id="A0T9e2R4MkHRRVcpy_gM-39" value="系统字典配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A0T9e2R4MkHRRVcpy_gM-40" value="机构准入审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="140" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
