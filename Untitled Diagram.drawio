@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T06:26:26.943Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="Uvqe8lHBpf11DPQmfjLQ" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T06:35:26.324Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="cjbnx9Vq2n7m0u9YQG5i" version="17.4.1" type="github">
   <diagram id="6Wr7HWto9CDt8bVIGJbJ" name="Page-1">
     <mxGraphModel dx="897" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,25 +19,14 @@
         <mxCell id="A0T9e2R4MkHRRVcpy_gM-3" value="资产数据对接" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="50" y="280" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="A0T9e2R4MkHRRVcpy_gM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A0T9e2R4MkHRRVcpy_gM-5" target="A0T9e2R4MkHRRVcpy_gM-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="A0T9e2R4MkHRRVcpy_gM-5" value="案件数据仓&lt;br&gt;案件流转控制服务&lt;br&gt;robin-hood" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A0T9e2R4MkHRRVcpy_gM-12" value="同步案件处置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A0T9e2R4MkHRRVcpy_gM-9">
-          <mxGeometry x="0.03" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="A0T9e2R4MkHRRVcpy_gM-6" value="电催处置工具包(jar)&lt;br&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgba(0 , 0 , 0 , 0.85)&quot;&gt;phone-collection&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A0T9e2R4MkHRRVcpy_gM-10" value="同步案件处置" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A0T9e2R4MkHRRVcpy_gM-5" target="A0T9e2R4MkHRRVcpy_gM-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="A0T9e2R4MkHRRVcpy_gM-5" value="案件数据仓&lt;br&gt;案件流转控制中心&lt;br&gt;robin-hood" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="A0T9e2R4MkHRRVcpy_gM-6" value="电催处置服务&lt;br&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgba(0 , 0 , 0 , 0.85)&quot;&gt;phone-collection&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="A0T9e2R4MkHRRVcpy_gM-7" value="调解处置服务&lt;br&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgba(0 , 0 , 0 , 0.85)&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;mediate&lt;/span&gt;-collection&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="A0T9e2R4MkHRRVcpy_gM-7" value="调解处置工具包(jar)&lt;br&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgba(0 , 0 , 0 , 0.85)&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;mediate&lt;/span&gt;-collection&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A0T9e2R4MkHRRVcpy_gM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A0T9e2R4MkHRRVcpy_gM-13" target="A0T9e2R4MkHRRVcpy_gM-1">
           <mxGeometry relative="1" as="geometry" />
@@ -56,8 +45,20 @@
         <mxCell id="A0T9e2R4MkHRRVcpy_gM-16" value="钉钉" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="310" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="A0T9e2R4MkHRRVcpy_gM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="A0T9e2R4MkHRRVcpy_gM-20" target="A0T9e2R4MkHRRVcpy_gM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A0T9e2R4MkHRRVcpy_gM-20" value="统一任务调度&lt;br&gt;xxl-job" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="150" width="90" height="50" as="geometry" />
+          <mxGeometry x="340" y="160" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A0T9e2R4MkHRRVcpy_gM-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="590" y="190" width="20" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="A0T9e2R4MkHRRVcpy_gM-29" value="短信中心(jar)&lt;br&gt;短信发送模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0T9e2R4MkHRRVcpy_gM-30" value="呼叫中心(jar)&lt;br&gt;呼叫发送模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
