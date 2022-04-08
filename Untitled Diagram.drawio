@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T06:53:14.744Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="3TjZoiZ9HY0ccE84im5F" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T06:55:26.974Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="9Zt4bGBDCZ9WTRRvTJdi" version="17.4.1" type="github">
   <diagram id="6Wr7HWto9CDt8bVIGJbJ" name="Page-1">
     <mxGraphModel dx="897" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,6 +100,9 @@
         </mxCell>
         <mxCell id="A0T9e2R4MkHRRVcpy_gM-46" value="统计报表（jar)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0T9e2R4MkHRRVcpy_gM-48" value="每个模块独立，对外输出服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="570" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
