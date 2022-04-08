@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T06:51:41.259Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="nxOVrSLG8gmcuruFrIz7" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T06:53:14.744Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="3TjZoiZ9HY0ccE84im5F" version="17.4.1" type="github">
   <diagram id="6Wr7HWto9CDt8bVIGJbJ" name="Page-1">
     <mxGraphModel dx="897" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
         <mxCell id="A0T9e2R4MkHRRVcpy_gM-40" value="机构准入审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="140" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A0T9e2R4MkHRRVcpy_gM-41" value="智能分案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A0T9e2R4MkHRRVcpy_gM-41" value="智能分案（jar)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A0T9e2R4MkHRRVcpy_gM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="A0T9e2R4MkHRRVcpy_gM-42" target="A0T9e2R4MkHRRVcpy_gM-5">
@@ -97,6 +97,9 @@
         </mxCell>
         <mxCell id="A0T9e2R4MkHRRVcpy_gM-45" value="外访处置工具包(jar)&lt;br&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgba(0 , 0 , 0 , 0.85)&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;mediate&lt;/span&gt;-collection&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0T9e2R4MkHRRVcpy_gM-46" value="统计报表（jar)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
