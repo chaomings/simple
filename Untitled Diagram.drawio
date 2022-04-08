@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T06:20:36.585Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="fgC7KBPFvibPmeXAly9S" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T06:23:00.558Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="LKzFfBuoh_NSD2RiBOMo" version="17.4.1" type="github">
   <diagram id="6Wr7HWto9CDt8bVIGJbJ" name="Page-1">
     <mxGraphModel dx="897" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A0T9e2R4MkHRRVcpy_gM-1" value="统一鉴权&lt;br&gt;user-center" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0T9e2R4MkHRRVcpy_gM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A0T9e2R4MkHRRVcpy_gM-2" target="A0T9e2R4MkHRRVcpy_gM-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A0T9e2R4MkHRRVcpy_gM-2" value="数据接入工具&lt;br&gt;data-docking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="290" width="120" height="60" as="geometry" />
@@ -16,8 +19,25 @@
         <mxCell id="A0T9e2R4MkHRRVcpy_gM-3" value="资产数据对接" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="50" y="280" width="60" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="A0T9e2R4MkHRRVcpy_gM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A0T9e2R4MkHRRVcpy_gM-5" target="A0T9e2R4MkHRRVcpy_gM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A0T9e2R4MkHRRVcpy_gM-12" value="同步案件处置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A0T9e2R4MkHRRVcpy_gM-9">
+          <mxGeometry x="0.03" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A0T9e2R4MkHRRVcpy_gM-10" value="同步案件处置" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A0T9e2R4MkHRRVcpy_gM-5" target="A0T9e2R4MkHRRVcpy_gM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A0T9e2R4MkHRRVcpy_gM-5" value="案件数据仓&lt;br&gt;案件流转控制中心&lt;br&gt;robin-hood" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0T9e2R4MkHRRVcpy_gM-6" value="电催处置服务&lt;br&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgba(0 , 0 , 0 , 0.85)&quot;&gt;phone-collection&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0T9e2R4MkHRRVcpy_gM-7" value="调解处置服务&lt;br&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgba(0 , 0 , 0 , 0.85)&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;mediate&lt;/span&gt;-collection&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
