@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T10:10:08.862Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="Fezh1cnhHae7RR7bMzve" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T10:32:33.778Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="S1QxcENdhknkYXU0jgK5" version="17.4.3" type="github">
   <diagram id="hCXL-EmN-yP1F1laMDvZ" name="Page-1">
     <mxGraphModel dx="1426" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,15 +19,15 @@
         <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgoWTWvmE6wfmxvOZ8Yc-3" target="HgoWTWvmE6wfmxvOZ8Yc-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-3" value="user-center&lt;br&gt;待办状态&lt;br&gt;通知ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-3" value="user-center&lt;br&gt;待办状态：待处理&lt;br&gt;通知ID&lt;br&gt;按照到期时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgoWTWvmE6wfmxvOZ8Yc-5" target="HgoWTWvmE6wfmxvOZ8Yc-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="460" as="targetPoint" />
             <Array as="points">
               <mxPoint x="280" y="310" />
-              <mxPoint x="280" y="570" />
+              <mxPoint x="280" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -39,8 +39,8 @@
         <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-5" value="业务代码处理调用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-8" value="处理完成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-8" value="待办状态：处理完成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-20" value="用户点击收到后结束" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgoWTWvmE6wfmxvOZ8Yc-10" target="HgoWTWvmE6wfmxvOZ8Yc-19">
           <mxGeometry relative="1" as="geometry" />
@@ -60,7 +60,7 @@
         <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-14" value="消息类型（统一配置跳转页面）&lt;br&gt;消息内容&lt;br&gt;发送方&lt;br&gt;接收方&lt;br&gt;发送时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720.75" y="190" width="218.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-19" value="消息状态：已阅" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
