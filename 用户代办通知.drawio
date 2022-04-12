@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T11:14:26.301Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="fY0MWiQ4vRJTPV0J102C" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T11:14:52.029Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="Cq06kJ1zjIG3_UnKY-yf" version="17.4.3" type="github">
   <diagram id="hCXL-EmN-yP1F1laMDvZ" name="Page-1">
     <mxGraphModel dx="1426" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-5" value="业务代码处理调用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-8" value="待办状态：处理完成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="630" width="120" height="60" as="geometry" />
@@ -71,8 +71,16 @@
         <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-19" value="消息状态：已阅" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="585" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HgoWTWvmE6wfmxvOZ8Yc-21" target="HgoWTWvmE6wfmxvOZ8Yc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-25" value="钉钉调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HgoWTWvmE6wfmxvOZ8Yc-24">
+          <mxGeometry x="-0.1045" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-21" value="钉钉待办" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="436" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="436" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
