@@ -1,11 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T09:32:47.734Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="KJ7c_S6Iw2Q7D12ji1Tg" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T10:03:13.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="DZ4lHrO8UagIuwWD8OQS" version="17.4.3" type="github">
   <diagram id="hCXL-EmN-yP1F1laMDvZ" name="Page-1">
     <mxGraphModel dx="1426" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="S6CZXsp_g17U7-wcB1Qq-1" value="通知ID&lt;br&gt;业务类型（统一管理）&lt;br&gt;前端查看路径（统一管理）&lt;br&gt;业务ID&lt;br&gt;通知内容&lt;br&gt;通知时间&lt;br&gt;发送方&lt;br&gt;接收方&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="120" width="200" height="130" as="geometry" />
+        <mxCell id="S6CZXsp_g17U7-wcB1Qq-1" value="&lt;br&gt;业务类型（统一管理）&lt;br&gt;前端查看路径（统一管理）&lt;br&gt;业务ID&lt;br&gt;通知内容&lt;br&gt;通知时间&lt;br&gt;发送方&lt;br&gt;接收方&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="150" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.2;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HgoWTWvmE6wfmxvOZ8Yc-1" target="S6CZXsp_g17U7-wcB1Qq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-1" value="业务代码发送待办" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgoWTWvmE6wfmxvOZ8Yc-3" value="user-center&lt;br&gt;待办状态&lt;br&gt;通知ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
