@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T06:18:08.460Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="oUwZPShGvO_7U2PGV1dc" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T06:18:26.257Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="CgLYLqONl_CuYeJ2gwAi" version="17.4.3" type="github">
   <diagram id="V66LFyJMfqvD_itr0hJN" name="Page-1">
     <mxGraphModel dx="897" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="jmDJpXwEOt9g27hDiZsJ-13" value="发送待办任务" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="510" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jmDJpXwEOt9g27hDiZsJ-15" value="等待人审批" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="jmDJpXwEOt9g27hDiZsJ-15" value="等待人工审批" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="680" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
